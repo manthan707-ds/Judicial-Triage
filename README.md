@@ -223,7 +223,7 @@ Add a `LICENSE` file (for example MIT) to state how others may use this project.
 
 ## 👤 Author
 
-**Tanmay** · [@tanmay-maxin](https://github.com/tanmay-maxin)
+**MANTHAN** · [@manthan-ds]((https://github.com/manthan707-ds))
 
 ---
 
